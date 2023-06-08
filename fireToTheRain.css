@@ -351,3 +351,16 @@
   border: 2px solid var(--background);
   border-radius: 5px;
 }
+.bt001f-background > br, .bt001f-title > br,.bt001f-botones > br{display:none;} 
+.bt001-cred{
+  widht:400px;
+  margin:0 auto;
+  color:#aaa;
+  font-weight:600;
+  display:block;
+  font-family:Poppins;
+  text-decoration:none;
+  letter-spacing:2px;
+  text-align:center;
+  font-size:10px;
+}
